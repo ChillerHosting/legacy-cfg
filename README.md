@@ -1,8 +1,6 @@
 # cfg
 
-Server configs for the official ddnet-insta gCTF/iCTF servers.
-
-![servers](https://raw.githubusercontent.com/ddnet-insta/images/refs/heads/master/public_servers.png)
+Server configs for the Legacy clan gCTF server
 
 This repository should be cloned into the storage location of the server
 and also has to be renamed to cfg.
