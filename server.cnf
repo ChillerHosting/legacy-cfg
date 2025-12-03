@@ -2,6 +2,7 @@
 
 include cfg/common-configs/server.cnf
 
+server_name=legacy
 git_root=/home/hosting/git
 gitpath_mod=/home/hosting/git/ddnet-insta
 gitpath_log=/home/hosting/git/TeeworldsLogsXXXXXX
@@ -9,3 +10,4 @@ compiled_teeworlds_name=DDNet-Server
 cmake_flags=-DCMAKE_BUILD_TYPE=Debug -DMYSQL=ON -DANTIBOT=ON
 gitpath_antibot=
 unix_user=hosting
+
